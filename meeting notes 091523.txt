@@ -1,0 +1,11 @@
+-double undulated surface
+	-high frequency, ~a couple cell lengths
+	-~20-25,000
+	-positive defects at peaks
+	-leonard-jones sticky surface potential
+	-look for double layer nucleating at boundary
+
+	-cell to cell adhesion term?
+	-where along cell length do we measure distance for cell-surface adhesion term?
+
+	-add in-progress file to github
